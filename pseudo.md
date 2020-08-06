@@ -9,3 +9,5 @@ bring in service worker
     
 
     db.js
+    activity 22 for reference
+    search for index db
